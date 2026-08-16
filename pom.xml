@@ -13,7 +13,7 @@
 
     <groupId>com.company.store</groupId>
     <artifactId>app-admin-dashboard-service</artifactId>
-    <version>1.0.11-SNAPSHOT</version>
+    <version>1.0.12-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <properties>
@@ -47,7 +47,7 @@
         <dependency>
             <groupId>com.company.store</groupId>
             <artifactId>api-user-sdk</artifactId>
-            <version>1.0.12</version>
+            <version>1.0.13</version>
         </dependency>
         <dependency>
             <groupId>com.company.store</groupId>
